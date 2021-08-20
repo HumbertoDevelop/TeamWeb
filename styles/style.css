@@ -36,7 +36,8 @@
         border: 3px solid #0000;
         display: flex;
         justify-content: space-between;
-        width: 56%;
+        /* width: 56%; */
+        max-width: 768px;
     }
     
     .header-1{
