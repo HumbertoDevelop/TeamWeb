@@ -27,8 +27,8 @@
         display: flex;
         flex-direction: column;
         align-items: center;
+        margin: 0 auto;
         width: 100%;
-        margin: var(--padding-container) auto 0 auto;
         
     }
     
@@ -36,6 +36,7 @@
         border: 3px solid #0000;
         display: flex;
         justify-content: space-between;
+        width: 56%;
     }
     
     .header-1{
@@ -61,16 +62,17 @@
         font-weight: normal;
         font-size: 18px;
         line-height: 27px;
-        width: 439px;
+        width: 100%;
         color: #000000;
     }
 
     .section__card{
         margin: 96px auto;
         display: grid;
+        justify-content: center;
         grid-template-columns: repeat(3,1fr);
         grid-template-rows: repeat(2,1fr) 300px;
-        gap: 66.4px 23.69px;
+        gap: 66.4px 30.69px;
         
     }
 
@@ -154,11 +156,15 @@
 
 
 
+
+
+
     @media (max-width: 425px){
         
         .header{
             display: flex;
             flex-direction: column;
+            width: 100%;
         }
 
         .header-1{
