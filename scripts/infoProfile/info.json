@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Bill Mahoney",
+        "Job": "Product Owner",
+        "Likes": ["Play Xbox","Meetings","Work"],
+        "Age": 28,
+        "Email": "Producer_mahoney@owner.com"
+    },
+    {
+        "id": 2,
+        "name": "Saba Cabrera",
+        "Job": "Art Director",
+        "Likes": ["Shopping","Meetings","Work"],
+        "Age": 26,
+        "Email": "Art_cabrera@owner.com"
+    },
+    {
+        "id": 3,
+        "name": "Shae Le",
+        "Job": "Tech Lead",
+        "Likes": ["Playstation","Meetings","Code","Work","Jokes"],
+        "Age": 27,
+        "Email": "Tech_le@owner.com"
+    },
+    {
+        "id": 4,
+        "name": "Shylah Lu",
+        "Job": "Ux Designer",
+        "Likes": ["Dance","Meetings","Work","Code"],
+        "Age": 30,
+        "Email": "Ux_lu@owner.com"
+    },
+    {
+        "id": 5,
+        "name": "Griff Richards",
+        "Job": "Developer",
+        "Likes": ["Play Xbox","Playstation","Work","Code","Code","and Code"],
+        "Age": 25,
+        "Email": "Dev_richards@owner.com"
+    },
+    {
+        "id": 5,
+        "name": "Stan John",
+        "Job": "Developer",
+        "Likes": ["To drink","Meetings","Work","Read"],
+        "Age": 28,
+        "Email": "Dev_john@owner.com"
+    }
+]
